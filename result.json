@@ -1,7 +1,6 @@
 {
   "_index": "siem-2022.09.12",
   "_type": "_doc",
-  "_id": "1icIJoMBHiyNmhtJO5zm",
   "_version": 1,
   "_score": 0,
   "fields": {
@@ -32,9 +31,6 @@
     "severity.keyword": [
       "High"
     ],
-    "path": [
-      "/Users/pistolpete/Downloads/elk/packs/log/test.log"
-    ],
     "log_type": [
       "antivirus"
     ],
@@ -54,14 +50,14 @@
       "1"
     ],
     "host": [
-      "Pistolpetes-MacBook-Pro.local",
+      "Pistolpete03-MacBook-Pro.local",
       "contosohost1"
     ],
     "prefix.keyword": [
       "<14>1"
     ],
     "host.keyword": [
-      "Pistolpetes-MacBook-Pro.local",
+      "Pistolpete03-MacBook-Pro.local",
       "contosohost1"
     ],
     "log_type.keyword": [
