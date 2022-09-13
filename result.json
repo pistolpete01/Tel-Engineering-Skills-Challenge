@@ -1,0 +1,83 @@
+{
+  "_index": "siem-2022.09.12",
+  "_type": "_doc",
+  "_id": "1icIJoMBHiyNmhtJO5zm",
+  "_version": 1,
+  "_score": 0,
+  "fields": {
+    "severity": [
+      "High"
+    ],
+    "id_number": [
+      "2496"
+    ],
+    "prefix": [
+      "<14>1"
+    ],
+    "id_number.keyword": [
+      "2496"
+    ],
+    "description": [
+      "Virus Found"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "message": [
+      "<14>1 2016-12-25T09:03:52.754646-06:00 contosohost1 antivirus 2496 - - alertname=\"Virus Found\" computername=\"contosopc42\" computerip=\"216.58.194.142\" severity=\"1\"\r"
+    ],
+    "source_ip": [
+      "216.58.194.142"
+    ],
+    "severity.keyword": [
+      "High"
+    ],
+    "path": [
+      "/Users/pistolpete/Downloads/elk/packs/log/test.log"
+    ],
+    "log_type": [
+      "antivirus"
+    ],
+    "hostname": [
+      "contosopc42"
+    ],
+    "source_ip.keyword": [
+      "216.58.194.142"
+    ],
+    "@timestamp": [
+      "2022-09-10T06:13:36.196Z"
+    ],
+    "message.keyword": [
+      "<14>1 2016-12-25T09:03:52.754646-06:00 contosohost1 antivirus 2496 - - alertname=\"Virus Found\" computername=\"contosopc42\" computerip=\"216.58.194.142\" severity=\"1\"\r"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host": [
+      "Pistolpetes-MacBook-Pro.local",
+      "contosohost1"
+    ],
+    "prefix.keyword": [
+      "<14>1"
+    ],
+    "host.keyword": [
+      "Pistolpetes-MacBook-Pro.local",
+      "contosohost1"
+    ],
+    "log_type.keyword": [
+      "antivirus"
+    ],
+    "hostname.keyword": [
+      "contosopc42"
+    ],
+    "description.keyword": [
+      "Virus Found"
+    ],
+    "timestamp": [
+      "2016-12-25T15:03:52.754Z"
+    ],
+    "path.keyword": [
+      "/Users/pistolpete/Downloads/elk/packs/log/test.log"
+    ]
+  }
+}
